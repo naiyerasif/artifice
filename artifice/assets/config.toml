@@ -1,0 +1,9 @@
+base_config = "assets/config.toml"
+
+[local]
+
+[local.dir]
+base = ".artifice"
+temp = "temp"
+logs = "temp/logs"
+refs = "references"
